@@ -40,5 +40,3 @@
 - Delete a task you don't want.
 
     <img src="public/img/deleteTask.PNG" />
-
-- After you run "node index"
